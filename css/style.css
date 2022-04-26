@@ -1,0 +1,17 @@
+
+.logo {
+    width: 90px;
+}
+
+div {
+    list-style: none;
+}
+
+@media all and (max-width: 576px) {
+    
+.imgSlider {
+    height: 280px;
+    object-fit: cover;
+}
+
+}
